@@ -1,1 +1,3 @@
-# supriya
+# supriya<?php
+phpinfo();
+?>
